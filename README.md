@@ -26,7 +26,8 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Upendra-Singh-Karmiyal&hide_border=true&theme=redical)
+![Upedra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Upendra-Singh-Karmiyal&hide_border=true&theme=redical)
+
 
  . | .
 --- | --- 
